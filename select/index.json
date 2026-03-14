@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワイルドフラワー",
+  "base_artist": "ビリー・アイリッシュ",
+  "createdAt": "2026-03-14T16:27:44.924901Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_01_WILDFLOWER_Billie_Eilish.txt"
+    }
+  ]
+}
